@@ -13,14 +13,14 @@ I'm a new grad GT :mortar_board: | Data Scientist
 
   
 ### Cool Projects
-- 	:game_die: [Language Agent for Games](https://github.com/EazyReal/Language-Agent-for-Games)
-- 	:plate_with_cutlery: [Flavor Friend](https://github.com/ShaanGil1/FlavorFriend)
+- 	:game_die:  [Language Agent for Games](https://github.com/EazyReal/Language-Agent-for-Games)
+- 	:plate_with_cutlery:  [Flavor Friend](https://github.com/ShaanGil1/FlavorFriend)
 
 
 ### Fun Fact
-- :violin: Over a decade of serenading strings
-- :performing_arts: Huge Musical Lover
-- :camera: Capturing moments, one snap at a time!
+- :violin:  Over a decade of serenading strings
+- :performing_arts:  Huge Musical Lover
+- :camera:  Capturing moments, one snap at a time!
 
 ---
 
