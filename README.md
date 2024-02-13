@@ -63,7 +63,7 @@ I'm on a quest to find the one ring to rule all datasets - seeking a full-time D
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-[Email](mailto:sabrinajj22688@gmail.com) [Resume](https://drive.google.com/file/d/18-EWUW3IVeCr3z6mmx3qDsyLvwO7-FnX/view?usp=drive_link)
+[Resume](https://drive.google.com/file/d/18-EWUW3IVeCr3z6mmx3qDsyLvwO7-FnX/view?usp=drive_link)
 
 </div>
 
