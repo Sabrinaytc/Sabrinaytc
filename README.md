@@ -33,14 +33,6 @@ I'm on a quest to find the one ring to rule all datasets - seeking a full-time D
 - 	:plate_with_cutlery:  [Flavor Friend](https://github.com/ShaanGil1/FlavorFriend)
 
 
-### Fun Fact
-- :violin:  Over a decade of serenading strings
-- :performing_arts:  Huge Musical Lover
-- :camera:  Capturing moments, one snap at a time!
-- :zap:  Always a PotterHead
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -54,6 +46,13 @@ I'm on a quest to find the one ring to rule all datasets - seeking a full-time D
 
 </div>
 
+
+
+### Fun Fact
+- :violin:  Over a decade of serenading strings
+- :performing_arts:  Huge Musical Lover
+- :camera:  Capturing moments, one snap at a time!
+- :zap:  Always a PotterHead
 
 ---
 
