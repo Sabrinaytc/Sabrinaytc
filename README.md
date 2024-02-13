@@ -5,7 +5,7 @@
 
 -->
 
-### :woman_technologist: About Me 
+## :woman_technologist: About Me 
 
 Fresh out of Georgia Tech :bee: with a shiny degree in Analytics :mortar_board: 
 
