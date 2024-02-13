@@ -8,7 +8,7 @@
 ### :woman_technologist: About Me 
 I'm a new grad GT :mortar_board: | Data Scientist
 
-- :computer:
+- :computer: 
 - :chart_with_upwards_trend:
 
   
@@ -21,6 +21,7 @@ I'm a new grad GT :mortar_board: | Data Scientist
 - :violin:  Over a decade of serenading strings
 - :performing_arts:  Huge Musical Lover
 - :camera:  Capturing moments, one snap at a time!
+- :zap:  Always a PotterHead
 
 ---
 
@@ -37,6 +38,20 @@ I'm a new grad GT :mortar_board: | Data Scientist
 
 </div>
 
+
+---
+
+### Contact Me
+
+<div>
+  <a href="https://www.linkedin.com/in/yitingchiang-sabrina/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+[Email](sabrinajj22688@gmail.com)
+[Resume](https://drive.google.com/file/d/18-EWUW3IVeCr3z6mmx3qDsyLvwO7-FnX/view?usp=drive_link)
+
+</div>
 
 <!--
 **Sabrinaytc/Sabrinaytc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
