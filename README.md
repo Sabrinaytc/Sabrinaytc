@@ -48,8 +48,7 @@ I'm a new grad GT :mortar_board: | Data Scientist
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-[Email](sabrinajj22688@gmail.com)
-[Resume](https://drive.google.com/file/d/18-EWUW3IVeCr3z6mmx3qDsyLvwO7-FnX/view?usp=drive_link)
+[Email](mailto:sabrinajj22688@gmail.com) [Resume](https://drive.google.com/file/d/18-EWUW3IVeCr3z6mmx3qDsyLvwO7-FnX/view?usp=drive_link)
 
 </div>
 
