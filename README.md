@@ -7,7 +7,8 @@
 
 ### :woman_technologist: About Me 
 
-Fresh out of Georgia Tech :bee: with a shiny degree in Analytics :mortar_board:
+Fresh out of Georgia Tech :bee: with a shiny degree in Analytics :mortar_board: \
+
 With a toolkit sharpened by academic rigor and hands-on projects, I am actively seeking full-time Data Scientist role where I can cast Statistical spells and weave Machine Learning enchantments. I am excited to contribute to a team that values innovation, precision, and a sprinkle of magic in their data storytelling 	:magic_wand:
 
 <!--
