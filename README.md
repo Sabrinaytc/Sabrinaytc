@@ -6,11 +6,25 @@
 -->
 
 ### :woman_technologist: About Me 
-I'm a new grad GT :mortar_board: | Data Scientist
 
+Fresh out of Georgia Tech :bee: with a shiny degree in Analytics :mortar_board:
+With a toolkit sharpened by academic rigor and hands-on projects, I am actively seeking full-time Data Scientist role where I can cast Statistical spells and weave Machine Learning enchantments. I am excited to contribute to a team that values innovation, precision, and a sprinkle of magic in their data storytelling 	:magic_wand:
+
+<!--
+Fresh out of Georgia Tech :bee: with a shiny degree in Analytics :mortar_board:
+As a fresh graduate from Georgia Tech's Analytics program, I'm embarking on a data-driven journey to explore the frontiers of Data Science. 
+I'm on a quest to find the one ring to rule all datasets - seeking a full-time Data Scientist role where I can cast Statistical spells and weave Machine Learning enchantments. Let's turn data into stories together!
+
+-->
+
+- 🛠️ Skilled in leveraging data tools and advanced analytics techniques
+- ✅ Experienced in transforming complex data into actionable business strategies
+- 🧭 Proven ability to navigate through data to drive business intelligence and strategic decision-making
+
+<!--
 - :computer: 
 - :chart_with_upwards_trend:
-
+-->
   
 ### Cool Projects
 - 	:game_die:  [Language Agent for Games](https://github.com/EazyReal/Language-Agent-for-Games)
