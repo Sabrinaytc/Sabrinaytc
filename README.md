@@ -51,7 +51,7 @@ I'm on a quest to find the one ring to rule all datasets - seeking a full-time D
 ### Fun Fact
 - :violin:  Over a decade of serenading strings
 - :performing_arts:  Huge Musical Lover
-- :camera:  Capturing moments, one snap at a time!
+- :camera:  Capture great moments, one snap at a time!
 - :zap:  Always a PotterHead
 
 ---
