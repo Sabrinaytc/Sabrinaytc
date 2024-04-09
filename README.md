@@ -31,6 +31,7 @@ I'm on a quest to find the one ring to rule all datasets - seeking a full-time D
 ### Cool Projects
 - 	:game_die:  [Language Agent for Games](https://github.com/EazyReal/Language-Agent-for-Games)
 - 	:plate_with_cutlery:  [Flavor Friend](https://github.com/ShaanGil1/FlavorFriend)
+- 	🛒 [Supermarket Sweep](https://github.com/Sabrinaytc/SupermarketSweep)
 
 
 ### :hammer_and_wrench: Languages and Tools :
