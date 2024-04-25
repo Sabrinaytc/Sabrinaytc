@@ -27,6 +27,9 @@ I'm on a quest to find the one ring to rule all datasets - seeking a full-time D
 - :computer: 
 - :chart_with_upwards_trend:
 -->
+
+### Personal Website
+🌟 [Sabrina Chiang](https://sabrinaytc.me)
   
 ### Cool Projects
 - 	:game_die:  [Language Agent for Games](https://github.com/EazyReal/Language-Agent-for-Games)
@@ -63,8 +66,6 @@ I'm on a quest to find the one ring to rule all datasets - seeking a full-time D
   <a href="https://www.linkedin.com/in/yitingchiang-sabrina/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-[Resume](https://drive.google.com/file/d/13JEiquve94dnOPu8dNT56XDLwusN8EdU/view?usp=sharing)
 
 </div>
 
